@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/955/69/70/minimalism-space-stars-wallpaper-preview.jpg);
+}
+.imagen {
+    width: 30%;
+    border: 1px solid white;
+    float: right;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
